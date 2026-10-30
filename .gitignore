@@ -1,0 +1,4 @@
+# Keep learner work and secrets out of this repository
+*.zip
+.env
+*.pfx
