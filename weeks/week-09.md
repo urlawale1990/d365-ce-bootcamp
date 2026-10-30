@@ -5,6 +5,13 @@
 - Reading: *Dynamics 365 Customer Service overview*; *Create and manage queues*; *Define SLAs*.
 - Homework: Contoso support process map (intake, routing, escalation).
 
+
+### Microsoft Learn modules (in the bootcamp collection)
+
+- [Explore Dynamics 365 Customer Service](https://learn.microsoft.com/training/modules/explore-dynamics-365-customer-service/) — module
+- [Work with service-level agreements in Dynamics 365 Customer Service](https://learn.microsoft.com/training/modules/service-level-agreements/) — module
+- [Create and manage entitlements in Dynamics 365 Customer Service](https://learn.microsoft.com/training/modules/creating-and-managing-entitlements-in-dynamics-365/) — module
+
 ## Consultant workshop (Sunday, last 40 minutes)
 
 - **Skill:** Functional Requirements Document (FRD)

@@ -5,6 +5,13 @@
 - Reading: *Manage environments in Power Platform*; *Security concepts in Dataverse*.
 - Homework: a security matrix table for Contoso (role × table × privilege).
 
+
+### Microsoft Learn modules (in the bootcamp collection)
+
+- [Create and manage environments in Dataverse](https://learn.microsoft.com/training/modules/create-manage-environments/) — module
+- [Get started with security concepts in Dataverse](https://learn.microsoft.com/training/modules/get-started-security-concepts/) — module
+- [Get started with security roles in Dataverse](https://learn.microsoft.com/training/modules/get-started-security-roles/) — module
+
 ## Consultant workshop (Sunday, last 40 minutes)
 
 - **Skill:** Requirements gathering

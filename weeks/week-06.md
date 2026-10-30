@@ -18,6 +18,13 @@
 - Writing a gap specification for a developer: the requirement, why low-code can't meet it, expected behaviour, data involved, test cases, and the acceptance criteria.
 - Exercise: classify 10 Contoso requirements into the three levels, then write one developer gap specification. These classifications become the Fit type column of the Week 6 fit-gap matrix.
 
+
+### Microsoft Learn modules (in the bootcamp collection)
+
+- [Define and create business rules in Dataverse](https://learn.microsoft.com/training/modules/define-create-business-rules/) — module
+- [Introduction to solutions for Microsoft Power Platform](https://learn.microsoft.com/training/modules/introduction-solutions/) — module
+- [Manage solutions in Power Apps and Power Automate](https://learn.microsoft.com/training/modules/manage-solutions-power-automate/) — module
+
 ## Consultant workshop (Sunday, last 40 minutes)
 
 - **Skill:** Fit-gap analysis

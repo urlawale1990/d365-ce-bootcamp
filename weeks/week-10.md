@@ -5,6 +5,13 @@
 - Reading: *Knowledge management*; *Customer Service workspace*; *Unified routing overview*.
 - Homework: configure a case-resolution survey and a service analytics view.
 
+
+### Microsoft Learn modules (in the bootcamp collection)
+
+- [Create knowledge management solutions in Dynamics 365 Customer Service](https://learn.microsoft.com/training/modules/creating-and-designing-knowledge-management-solutions/) — module
+- [Get started with unified routing for Dynamics 365 Customer Service](https://learn.microsoft.com/training/modules/get-started-unified-routing/) — module
+- [Describe Dynamics 365 Customer Service capabilities and related apps](https://learn.microsoft.com/training/modules/examine-reporting-apps/) — module
+
 ## Consultant workshop (Sunday, last 40 minutes)
 
 - **Skill:** FRD completion and sign-off

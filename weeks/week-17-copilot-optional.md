@@ -39,3 +39,9 @@ This example uses Contoso, not Northwind, so you see the standard expected witho
 | Test set | 10 questions: 8 answerable, 2 that must be refused or handed over |
 
 **Why this is good:** the agent has clear limits, uses trusted knowledge only, and does real work (creates a case) instead of only chatting.
+
+### Microsoft Learn modules (in the bootcamp collection)
+
+- [Build an initial agent with Microsoft Copilot Studio](https://learn.microsoft.com/training/modules/create-copilots-copilot-studio/) — module
+- [Build an autonomous agent in Copilot Studio](https://learn.microsoft.com/training/modules/autonomous-agent/) — module
+

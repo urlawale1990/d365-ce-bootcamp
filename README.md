@@ -2,6 +2,8 @@
 
 Welcome. This repository holds everything you need for the bootcamp: weekly session guides, the consultant track, document templates, the Northwind Clinics client pack and the assessment criteria.
 
+- [Microsoft Learn reading list](learn-reading-list.md): every week's Learn modules in order
+
 ## How the course works
 
 - **16 weeks, every weekend:** Saturday 2 hours (concept + guided lab), Sunday 2 hours (recap quiz, independent lab, consultant workshop).

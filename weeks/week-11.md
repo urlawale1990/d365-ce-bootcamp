@@ -5,6 +5,13 @@
 - Reading: *Customer Insights – Journeys overview*; *Create segments*; *Create a journey*.
 - Homework: a welcome journey for new service-contract customers.
 
+
+### Microsoft Learn modules (in the bootcamp collection)
+
+- [Create emails in Dynamics 365 Customer Insights - Journeys](https://learn.microsoft.com/training/modules/marketing-emails-texts-push/) — module
+- [Build journeys with Dynamics 365 Customer Insights - Journeys](https://learn.microsoft.com/training/modules/build-journeys-marketing/) — module
+- [Guided project - Create and manage journeys](https://learn.microsoft.com/training/modules/guided-project-create-manage-journeys-dynamics-365-customer-insights/) — module
+
 ## Consultant workshop (Sunday, last 40 minutes)
 
 - **Skill:** Solution management

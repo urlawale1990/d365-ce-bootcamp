@@ -5,6 +5,12 @@
 - Reading: *Success by Design* (Microsoft's implementation guide).
 - Homework: final portfolio submission.
 
+
+### Microsoft Learn modules (in the bootcamp collection)
+
+- [Get started with Success by Design for Dynamics 365](https://learn.microsoft.com/training/modules/success-by-design/) — module
+- [Introduction to Success by Design (implementation guide)](https://learn.microsoft.com/dynamics365/guidance/implementation-guide/success-by-design) — doc
+
 ## Consultant workshop (Sunday, last 40 minutes)
 
 - **Skill:** Go-live and beyond

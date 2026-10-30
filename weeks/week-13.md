@@ -5,6 +5,12 @@
 - Reading: *Create a canvas app*; *Model-driven app design*.
 - Homework: polish the technician app with a gallery, form and photo capture.
 
+
+### Microsoft Learn modules (in the bootcamp collection)
+
+- [Build a model-driven app](https://learn.microsoft.com/training/modules/build-model-driven-app/) — module
+- [Build a canvas app](https://learn.microsoft.com/training/modules/build-canvas-app/) — module
+
 ## Consultant workshop (Sunday, last 40 minutes)
 
 - **Skill:** Configuration management

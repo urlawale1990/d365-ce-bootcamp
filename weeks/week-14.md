@@ -5,6 +5,12 @@
 - Reading: *Power BI with Dataverse*; *Copilot Studio fundamentals*.
 - Homework: publish the Power BI report and embed it in a dashboard; log capstone test results and defects in Azure DevOps.
 
+
+### Microsoft Learn modules (in the bootcamp collection)
+
+- [Create a Power BI report using data from Dataverse](https://learn.microsoft.com/power-apps/maker/data-platform/data-platform-powerbi-connector) — doc
+- [Get started with Microsoft Copilot Studio](https://learn.microsoft.com/training/modules/power-virtual-agents-bots/) — module
+
 ## Consultant workshop (Sunday, last 40 minutes)
 
 - **Skill:** Testing

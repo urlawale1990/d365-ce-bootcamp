@@ -5,6 +5,14 @@
 - Reading: *Configure the product catalogue*; *Configure forecasts*; *Sales accelerator*.
 - Homework: configure a quarterly forecast and one sequence.
 
+
+### Microsoft Learn modules (in the bootcamp collection)
+
+- [Manage and organize your product catalog with Dynamics 365 Sales](https://learn.microsoft.com/training/modules/manage-organize-product-catalog-dynamics-365-sales/) — module
+- [Configure forecasts in Dynamics 365 Sales](https://learn.microsoft.com/training/modules/sales-forecasts/) — module
+- [Set up Sales accelerator in Dynamics 365 Sales](https://learn.microsoft.com/training/modules/set-up-sales-accelerator/) — module
+- [Create sales sequences with Sales Insights](https://learn.microsoft.com/training/modules/sales-sequence/) — module
+
 ## Consultant workshop (Sunday, last 40 minutes)
 
 - **Skill:** Security design

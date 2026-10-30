@@ -5,6 +5,15 @@
 - Reading: *Create and manage tables in Dataverse*; *Manage columns and relationships*.
 - Homework: draw the Contoso entity relationship diagram.
 
+
+### Microsoft Learn modules (in the bootcamp collection)
+
+- [Manage tables in Dataverse](https://learn.microsoft.com/training/modules/create-manage-entities/) — module
+- [Create and manage columns within a table in Dataverse](https://learn.microsoft.com/training/modules/create-manage-fields-within-entity/) — module
+- [Work with choices in Dataverse](https://learn.microsoft.com/training/modules/working-with-option-sets/) — module
+- [Create a relationship between tables in Dataverse](https://learn.microsoft.com/training/modules/create-relationship-between-cds-entities/) — module
+- [Create and define calculation or rollup columns in Dataverse](https://learn.microsoft.com/training/modules/create-define-calculation-rollup-fields/) — module
+
 ## Consultant workshop (Sunday, last 40 minutes)
 
 - **Skill:** User stories and acceptance criteria

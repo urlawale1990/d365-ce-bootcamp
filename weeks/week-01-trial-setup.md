@@ -65,6 +65,12 @@ Use a private/InPrivate browser window throughout so personal Microsoft accounts
 - [Welcome to Dynamics 365 Sales](https://learn.microsoft.com/dynamics365/sales/overview)
 - Microsoft Learn path: *Microsoft Power Platform Fundamentals* (PL-900 content) as background
 
+
+### Microsoft Learn modules (in the bootcamp collection)
+
+- [Microsoft Power Platform Fundamentals (PL-900)](https://learn.microsoft.com/training/paths/power-plat-fundamentals/) — learning path
+- [Describe the foundations of Dynamics 365 customer engagement apps](https://learn.microsoft.com/training/modules/navigate-dynamics-customer-engagement-apps/) — module
+
 ## Consultant workshop (Sunday, last 40 minutes)
 
 - **Skill:** The consultant role

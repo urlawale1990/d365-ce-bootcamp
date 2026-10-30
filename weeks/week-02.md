@@ -5,6 +5,12 @@
 - Reading: *Get started with model-driven apps*; *Work with records in Dynamics 365*.
 - Homework: a 1-page “user guide” for a Contoso salesperson.
 
+
+### Microsoft Learn modules (in the bootcamp collection)
+
+- [Describe shared activities and integration options in Dynamics 365 customer engagement apps](https://learn.microsoft.com/training/modules/examine-common-activities-integration-options/) — module
+- [Get started with model-driven apps in Power Apps](https://learn.microsoft.com/training/modules/get-started-with-model-driven-apps-in-powerapps/) — module
+
 ## Consultant workshop (Sunday, last 40 minutes)
 
 - **Skill:** Stakeholders and discovery

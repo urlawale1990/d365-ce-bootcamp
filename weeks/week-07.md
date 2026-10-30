@@ -5,6 +5,14 @@
 - Reading: *Dynamics 365 Sales overview*; *Manage leads and opportunities*.
 - Homework: take one deal from lead to invoice and record each step with screenshots.
 
+
+### Microsoft Learn modules (in the bootcamp collection)
+
+- [Explore Dynamics 365 Sales](https://learn.microsoft.com/training/modules/explore-dynamics-365-sales/) — module
+- [Manage leads with Dynamics 365 Sales](https://learn.microsoft.com/training/modules/manage-leads-dynamics-365-sales/) — module
+- [Manage opportunities with Dynamics 365 Sales](https://learn.microsoft.com/training/modules/manage-opportunities-dynamics-365-sales/) — module
+- [Process sales orders with Dynamics 365 Sales](https://learn.microsoft.com/training/modules/process-sales-orders-dynamics-365-sales/) — module
+
 ## Consultant workshop (Sunday, last 40 minutes)
 
 - **Skill:** Data modelling and ERD

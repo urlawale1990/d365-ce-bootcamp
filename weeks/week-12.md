@@ -5,6 +5,13 @@
 - Reading: *Get started with Power Automate*; *Use the Dataverse connector*.
 - Homework: one flow that solves a Contoso requirement of the learner's choice.
 
+
+### Microsoft Learn modules (in the bootcamp collection)
+
+- [Get started with Power Automate](https://learn.microsoft.com/training/modules/get-started-flows/) — module
+- [Introduction to expressions in Power Automate](https://learn.microsoft.com/training/modules/introduction-expressions/) — module
+- [Use Dataverse triggers and actions in Power Automate](https://learn.microsoft.com/training/modules/use-dataverse-triggers-actions/) — module
+
 ## Consultant workshop (Sunday, last 40 minutes)
 
 - **Skill:** Environment strategy and ALM

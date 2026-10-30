@@ -5,6 +5,12 @@
 - Reading: *Design model-driven app forms*; *Create views, charts and dashboards*.
 - Homework: a Contoso Service Manager dashboard with 4 charts.
 
+
+### Microsoft Learn modules (in the bootcamp collection)
+
+- [Configure forms, charts, and dashboards in model-driven apps](https://learn.microsoft.com/training/modules/configure-model-driven-apps-customer-engagement-apps/) — module
+- [Customize the command bar](https://learn.microsoft.com/training/modules/command-bar-customize/) — module
+
 ## Consultant workshop (Sunday, last 40 minutes)
 
 - **Skill:** Process mapping

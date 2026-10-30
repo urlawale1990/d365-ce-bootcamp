@@ -5,6 +5,13 @@
 - Reading: *Import data*; *Duplicate detection*; *Integrate with Microsoft 365*.
 - Homework: a data migration plan for Contoso (source, mapping, cleansing, validation).
 
+
+### Microsoft Learn modules (in the bootcamp collection)
+
+- [Load/export data and create data views in Dataverse](https://learn.microsoft.com/training/modules/load-export-data-create-data-views/) — module
+- [Detect duplicate records and merge](https://learn.microsoft.com/power-platform/admin/detect-duplicate-records) — doc
+- [Use Microsoft 365 services with model-driven apps and Dataverse](https://learn.microsoft.com/training/modules/use-services-model-driven-apps/) — module
+
 ## Consultant workshop (Sunday, last 40 minutes)
 
 - **Skill:** Data migration and training
