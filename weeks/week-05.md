@@ -13,6 +13,22 @@
 
 Use the matching template in [templates](../templates/README.md).
 
+## What good looks like (Contoso example)
+
+This example uses Contoso, not Northwind, so you see the standard expected without being given the answer.
+
+**Contoso example — Appliance main form layout:**
+
+- **Tab 1 “Summary”:** Serial number, Account, Install date, Warranty end, Status
+- **Tab 2 “Service history”:** subgrid of Cases for this appliance; subgrid of Service Contracts
+- **Header:** Warranty end, Owner
+
+**Views:** *Active appliances*, *Warranty ending in 30 days*, *Appliances by account*.
+
+**Dashboard “Service manager”:** open cases by priority · cases by appliance type · warranties ending this month · average resolution days.
+
+**Why this is good:** the most-used fields are on the first tab, related records appear as subgrids instead of extra fields, and every view answers a real question someone asks.
+
 ## Northwind capstone (complete during the week)
 
 - **Task:** Map as-is and to-be booking process; build Booking forms, views and a clinic manager dashboard

@@ -23,3 +23,19 @@ A bonus weekend after the capstone. Run it if the cohort finished on schedule, o
 **Northwind capstone:** a patient-facing agent that answers the 20 common reception questions from the knowledge base and logs complaints as cases routed to the complaints queue. Acceptance check: the agent answers 8 of 10 test questions correctly, never shows medical or contract data, and every complaint creates a case with the right queue.
 
 **Certification link:** strengthens AB-210 (Sales AI Consultant) and prepares for AB-620 (AI Agent Builder Associate).
+
+## What good looks like (Contoso example)
+
+This example uses Contoso, not Northwind, so you see the standard expected without being given the answer.
+
+**Contoso example — agent design:**
+
+| Part | Contoso choice |
+| --- | --- |
+| Agent | *Contoso Repair Helper* |
+| Knowledge | Published knowledge articles only |
+| Instructions | Answer appliance questions from articles; never quote prices; hand over to a person for safety issues (gas smell) |
+| Topic | *Book a repair* → collect name, email, appliance serial, fault → flow creates a Warranty case → reply with case number |
+| Test set | 10 questions: 8 answerable, 2 that must be refused or handed over |
+
+**Why this is good:** the agent has clear limits, uses trusted knowledge only, and does real work (creates a case) instead of only chatting.

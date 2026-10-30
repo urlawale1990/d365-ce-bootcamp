@@ -13,6 +13,23 @@
 
 Use the matching template in [templates](../templates/README.md).
 
+## What good looks like (Contoso example)
+
+This example uses Contoso, not Northwind, so you see the standard expected without being given the answer.
+
+**Contoso example — product catalogue:**
+
+| Item | Value |
+| --- | --- |
+| Unit group | *Plan* (unit: 1 plan) |
+| Products | Bronze plan £90 · Silver plan £120 · Gold plan £180 (family: *Service plans*) |
+| Price list | *Builders 2027*, all three products priced |
+| Discount list | *Builder*: 20–49 plans 5%, 50+ plans 8% |
+
+**Contoso example — security matrix row:** Service Agent · Account: Read (organisation) · Opportunity: none · Case: Create/Write (business unit) · Contract value: hidden (field security).
+
+**Why this is good:** products are published and every product has a price-list item, so quotes don't fail.
+
 ## Northwind capstone (complete during the week)
 
 - **Task:** Design the security model; set up product catalogue for health packages, a sales goal and forecast

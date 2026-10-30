@@ -13,6 +13,29 @@
 
 Use the matching template in [templates](../templates/README.md).
 
+## What good looks like (Contoso example)
+
+This example uses Contoso, not Northwind, so you see the standard expected without being given the answer.
+
+**Contoso example — a user story with acceptance criteria:**
+
+> **US-12** As a service agent, I want warranty cases to go straight to the Warranty queue so that I don't sort them by hand.
+>
+> **Given** a new case with Case type = Warranty, **when** it is saved, **then** it appears in the Warranty queue within 1 minute.
+>
+> Links to BR-02 · Priority: Must · Azure DevOps work item #34
+
+**Contoso example — a custom table design:**
+
+| Table | Column | Type | Required |
+| --- | --- | --- | --- |
+| Appliance (cnt_appliance) | Serial number | Text (50) | Yes |
+| | Install date | Date only | Yes |
+| | Account | Lookup → Account | Yes |
+| | Warranty end | Formula column: Install date + 2 years | — |
+
+**Why this is good:** the story is testable, it traces to a requirement, and the table lives in a solution with the `cnt` prefix — nothing in the Default solution.
+
 ## Northwind capstone (complete during the week)
 
 - **Task:** Turn the BRD into 20 user stories; design and build Northwind tables (Clinic, Health Package, Booking)

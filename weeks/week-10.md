@@ -13,6 +13,21 @@
 
 Use the matching template in [templates](../templates/README.md).
 
+## What good looks like (Contoso example)
+
+This example uses Contoso, not Northwind, so you see the standard expected without being given the answer.
+
+**Contoso example — knowledge article:**
+
+> **Title:** My boiler shows error E119
+> **Keywords:** boiler, E119, pressure
+> **Answer:** E119 means low water pressure. 1. Check the pressure gauge… 2. … If the gauge stays below 1 bar, book an engineer.
+> **Status:** Published · **Linked to:** case subject *Boilers*
+
+**Contoso example — RTM row:** BR-02 → US-12 → FR-23 → Routing rule “Warranty” → TS-12 → Passed.
+
+**Why this is good:** the article answers one question, uses searchable keywords and is published, and the RTM row links every stage.
+
 ## Northwind capstone (complete during the week)
 
 - **Task:** Finish the FRD with service sections and an RTM; add 10 knowledge articles for common patient questions

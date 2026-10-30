@@ -73,6 +73,23 @@ Use a private/InPrivate browser window throughout so personal Microsoft accounts
 
 Use the matching template in [templates](../templates/README.md).
 
+## What good looks like (Contoso example)
+
+This example uses Contoso, not Northwind, so you see the standard expected without being given the answer.
+
+**Contoso example — app recommendation note (extract):**
+
+> *Contoso Home Services sells appliance service plans to homeowners and builders, and repairs appliances under warranty.*
+>
+> | Need | Recommended app | Why |
+> | --- | --- | --- |
+> | Track builder deals and service-plan quotes | Dynamics 365 Sales | Pipeline, quotes and forecasts for B2B selling |
+> | Log and route repair requests, warranty SLAs | Dynamics 365 Customer Service | Cases, queues, SLAs, knowledge base |
+> | Technician visits on site | Dynamics 365 Field Service *(phase 2)* | Scheduling and mobile work orders — not needed for go-live |
+> | Reports and small automations | Power Platform | Power BI, Power Automate |
+
+**Why this is good:** each app is tied to a business need, it says what is *not* needed yet, and it fits on one page. Now write the same for Northwind — don't copy the apps, work them out from the brief.
+
 ## Northwind capstone (complete during the week)
 
 - **Task:** Set up a separate Northwind environment and admin account; write a 1-page note on which D365 apps Northwind needs and why

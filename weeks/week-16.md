@@ -13,6 +13,22 @@
 
 Use the matching template in [templates](../templates/README.md).
 
+## What good looks like (Contoso example)
+
+This example uses Contoso, not Northwind, so you see the standard expected without being given the answer.
+
+**Contoso example — go/no-go checklist:**
+
+- [x] All Must stories passed UAT and are signed off
+- [x] No open Severity 1 or 2 defects
+- [x] 1,240 records migrated; counts reconciled with the source
+- [x] 18 users trained, licences assigned
+- [ ] Hypercare rota for 2 weeks agreed ← *blocker: decision moved to Thursday*
+
+**Contoso example — demo storyline (15 minutes):** the problem in numbers (2 min) → follow one warranty repair from phone call to resolved case and survey (7 min) → the manager's dashboard (2 min) → results against the BRD and the go-live plan (4 min).
+
+**Why this is good:** the demo tells one business story end to end instead of touring features, and the checklist is honest about what isn't ready.
+
 ## Northwind capstone (complete during the week)
 
 - **Task:** Assemble everything into the final capstone; write the cutover plan and present to the “Northwind board”

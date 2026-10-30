@@ -13,6 +13,22 @@
 
 Use the matching template in [templates](../templates/README.md).
 
+## What good looks like (Contoso example)
+
+This example uses Contoso, not Northwind, so you see the standard expected without being given the answer.
+
+**Contoso example — flow design:**
+
+| Part | Choice |
+| --- | --- |
+| Name | *Case — notify owner of high priority* |
+| Trigger | Dataverse: when a Case row is added, filter `prioritycode eq 1` |
+| Steps | Get the account owner → send email with case title and link |
+| Settings | Environment variable *Service mailbox*; connection references for Dataverse and Outlook |
+| Lives in | *ContosoService* solution |
+
+**Why this is good:** the trigger is filtered so the flow only runs when needed, nothing is hard-coded, and it travels with the solution.
+
 ## Northwind capstone (complete during the week)
 
 - **Task:** Build 2 flows (booking confirmation, overdue complaint escalation) using environment variables; write a deployment plan

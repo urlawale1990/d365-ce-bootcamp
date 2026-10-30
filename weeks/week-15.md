@@ -13,6 +13,23 @@
 
 Use the matching template in [templates](../templates/README.md).
 
+## What good looks like (Contoso example)
+
+This example uses Contoso, not Northwind, so you see the standard expected without being given the answer.
+
+**Contoso example — migration mapping:**
+
+| Source column | Target | Transformation |
+| --- | --- | --- |
+| Cust_Name | Account.name | Trim spaces, title case |
+| Email | Contact.emailaddress1 | Lowercase; duplicate check on email |
+| Install_Dt | cnt_appliance.cnt_installdate | Convert all formats to DD/MM/YYYY; reject blanks |
+| Region | Account.address1_city | Map “Mcr” → Manchester, “Ldn” → London |
+
+**Contoso example — user guide page:** *Log a warranty repair.* Who: service agents · Steps 1–6 with screenshots · “If the appliance isn't listed…” troubleshooting box.
+
+**Why this is good:** every column has a rule, decisions about bad data are written down, and the guide is one task per page.
+
 ## Northwind capstone (complete during the week)
 
 - **Task:** Import 300 legacy Excel records with a mapping sheet and duplicate rules; write a receptionist user guide

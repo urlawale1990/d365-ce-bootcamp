@@ -13,6 +13,24 @@
 
 Use the matching template in [templates](../templates/README.md).
 
+## What good looks like (Contoso example)
+
+This example uses Contoso, not Northwind, so you see the standard expected without being given the answer.
+
+**Contoso example — Warranty SLA:**
+
+| Setting | Value |
+| --- | --- |
+| Applies when | Case type = Warranty |
+| Calendar | Mon–Fri 08:00–17:30, UK holidays |
+| KPI 1: First response | 4 working hours (warning at 3) |
+| KPI 2: Resolve by | 2 working days (warning at 1.5) |
+| Success action | Email the customer “Your repair is booked” |
+
+**Contoso example — FRD entry:** *FR-23 Warranty routing.* When a case with Case type = Warranty is created, a routing rule assigns it to the Warranty queue. Traces to US-12 and BR-02. Tested by TS-12.
+
+**Why this is good:** SLA times use working hours, and every FRD entry traces back to a requirement and forward to a test.
+
 ## Northwind capstone (complete during the week)
 
 - **Task:** Write the FRD for Northwind Sales; set up complaint and billing queues, 2 SLAs and routing rules

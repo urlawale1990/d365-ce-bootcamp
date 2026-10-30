@@ -15,6 +15,8 @@ Welcome. This repository holds everything you need for the bootcamp: weekly sess
 2. Follow [Week 1](weeks/week-01-trial-setup.md) to create your Microsoft 365 work account and Dynamics 365 trials.
 3. Read the [assessment criteria](assessment/README.md) so you know what you are building towards.
 
+Every weekly guide ends with a **What good looks like** example built on Contoso, followed by your Northwind capstone task. Use the example to see the standard expected, then apply it to Northwind yourself.
+
 ## Weekly guides
 
 | Week | Topic |

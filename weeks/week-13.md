@@ -13,6 +13,18 @@
 
 Use the matching template in [templates](../templates/README.md).
 
+## What good looks like (Contoso example)
+
+This example uses Contoso, not Northwind, so you see the standard expected without being given the answer.
+
+**Contoso example — technician app:** a gallery of today's cases for the signed-in technician; a **Mark complete** button using
+`Patch(Cases, ThisItem, {Description: ThisItem.Description & " — completed on site"})`;
+a camera control to attach a photo of the repair.
+
+**Contoso example — change request:** CR-04 “Add *Priority customer* flag to cases” · Impact: Case form, routing rules, SLA · Effort: 2 days · Risk: low · Decision: approved for release 1.2.
+
+**Why this is good:** the app shows only what the technician needs, and the change request states impact and effort before anything is built.
+
 ## Northwind capstone (complete during the week)
 
 - **Task:** Build a canvas app for receptionists to check in patients; log all configuration and raise 1 change request

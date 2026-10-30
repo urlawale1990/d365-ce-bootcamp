@@ -26,6 +26,22 @@
 
 Use the matching template in [templates](../templates/README.md).
 
+## What good looks like (Contoso example)
+
+This example uses Contoso, not Northwind, so you see the standard expected without being given the answer.
+
+**Contoso example — fit-gap rows:**
+
+| Story | Fit type | How it is met | Effort |
+| --- | --- | --- | --- |
+| US-07 Pipeline dashboard | Fit | Standard opportunity pipeline and dashboard | 0.5 day |
+| US-12 Warranty routing | Configure | Routing rule on Case type | 1 day |
+| US-18 Check warranty in ERP | Extend | Developer: API call from a flow or plug-in | 5 days |
+
+**Contoso example — business rule:** *If Status = Decommissioned, then make “Decommission reason” required and lock “Install date”.*
+
+**Why this is good:** standard features are tried first, every row says *how*, and the business rule enforces a real process rule.
+
 ## Northwind capstone (complete during the week)
 
 - **Task:** Complete a fit-gap on all 20 stories; build 3 business rules and a booking BPF; export the solution

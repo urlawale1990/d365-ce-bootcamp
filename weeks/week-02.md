@@ -13,6 +13,24 @@
 
 Use the matching template in [templates](../templates/README.md).
 
+## What good looks like (Contoso example)
+
+This example uses Contoso, not Northwind, so you see the standard expected without being given the answer.
+
+**Contoso example — logging a call properly:**
+
+| Field | Value |
+| --- | --- |
+| Activity type | Phone Call (not a Note) |
+| Subject | Boiler not heating — asked for engineer visit |
+| Regarding | Account: *Riverside Builders* |
+| Call to | Contact: *Sam Brooks* |
+| Follow-up | Task “Book engineer visit”, due tomorrow, owner: Service desk |
+
+**Saved view “Builders in the North”:** Account · Relationship Type = Builder · Address 1: City is Manchester, Leeds or Sheffield · sorted by Account Name.
+
+**Why this is good:** the right activity type, a clear subject, *Regarding* set so it shows on the account timeline, and a follow-up task so nothing is forgotten.
+
 ## Northwind capstone (complete during the week)
 
 - **Task:** Load 10 clinics as accounts, 20 contacts, and log 15 activities from a supplied call sheet

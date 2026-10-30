@@ -13,6 +13,22 @@
 
 Use the matching template in [templates](../templates/README.md).
 
+## What good looks like (Contoso example)
+
+This example uses Contoso, not Northwind, so you see the standard expected without being given the answer.
+
+**Contoso example — solution strategy (extract):**
+
+| Decision | Contoso choice | Reason |
+| --- | --- | --- |
+| Publisher / prefix | Contoso Home Services / `cnt` | Every custom component is identifiable |
+| Solutions | ContosoCore, ContosoSales, ContosoService | Smaller, independent deployments |
+| Test / Prod | Managed only | Clean upgrades and uninstall |
+
+**Contoso example — journey:** segment *Boiler owners, service due in 30 days, consent = Yes* → email “Time for your annual service” → wait 7 days → if not opened, send reminder.
+
+**Why this is good:** the strategy gives a reason for each decision, and the journey respects consent.
+
 ## Northwind capstone (complete during the week)
 
 - **Task:** Write Northwind's solution strategy; build a reminder journey for annual health checks in Customer Insights

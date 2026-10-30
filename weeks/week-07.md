@@ -13,6 +13,16 @@
 
 Use the matching template in [templates](../templates/README.md).
 
+## What good looks like (Contoso example)
+
+This example uses Contoso, not Northwind, so you see the standard expected without being given the answer.
+
+**Contoso example — ERD in words:** Account 1:N Contact · Account 1:N Appliance · Appliance 1:N Case · Appliance 1:N Service Contract · Account 1:N Opportunity → Quote → Order.
+
+**Contoso example — worked quote:** Riverside Builders, 50 boiler service plans × £120 = £6,000, less 5% builder discount (from the *Builder* discount list) = **£5,700**.
+
+**Why this is good:** the ERD matches what is actually built, and the discount comes from a discount list, not a number typed by hand.
+
 ## Northwind capstone (complete during the week)
 
 - **Task:** Draw the Northwind ERD; configure the corporate wellness sales cycle lead → opportunity → quote
