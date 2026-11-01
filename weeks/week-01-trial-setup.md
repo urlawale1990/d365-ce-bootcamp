@@ -107,8 +107,8 @@ This example uses Contoso, not Northwind, so you see the standard expected witho
 
 ## Northwind capstone (complete during the week)
 
-- **Task:** Set up a separate Northwind environment and admin account; write a 1-page note on which D365 apps Northwind needs and why
-- **Deliver:** Working trial + app recommendation
+- **Task:** In the Power Platform admin centre, create a new trial environment called *Northwind* in your tenant (using today's admin account); write a 1-page note on which D365 apps Northwind needs and why
+- **Deliver:** A screenshot of the Northwind environment (name, type, URL) + the app recommendation note, by Saturday 7 November
 - **Acceptance check:** Environment live; recommendation names Sales and Customer Service with reasons
 
 Client material is in [northwind](../northwind/README.md). Demo-ready by Saturday 7 November: 2–3 learners present each week.
