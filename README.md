@@ -13,34 +13,34 @@ Welcome. This repository holds everything you need for the bootcamp: weekly sess
 
 ## Start here
 
-1. Read [Week 0 — Onboarding](weeks/week-00-onboarding.md) and complete the checklist before Week 1.
-2. Follow [Week 1](weeks/week-01-trial-setup.md) to create your Microsoft 365 work account and Dynamics 365 trials.
-3. Read the [assessment criteria](assessment/README.md) so you know what you are building towards.
+1. Follow [Week 1](weeks/week-01-trial-setup.md): onboarding and creating your Microsoft 365 work account and Dynamics 365 trials (Sunday 1 November).
+2. Read the [assessment criteria](assessment/README.md) so you know what you are building towards.
 
 Every weekly guide ends with a **What good looks like** example built on Contoso, followed by your Northwind capstone task. Use the example to see the standard expected, then apply it to Northwind yourself.
 
 ## Weekly guides
 
-| Week | Topic |
-| --- | --- |
-| 0 | [Onboarding](weeks/week-00-onboarding.md) |
-| 1 | [D365 CE, Power Platform and your trial environment](weeks/week-01-trial-setup.md) |
-| 2 | [Using D365 like a user](weeks/week-02.md) |
-| 3 | [Administration and security](weeks/week-03.md) |
-| 4 | [Dataverse data model](weeks/week-04.md) |
-| 5 | [The user interface](weeks/week-05.md) |
-| 6 | [Logic without code and solutions](weeks/week-06.md) |
-| 7 | [Sales Hub, lead to cash](weeks/week-07.md) |
-| 8 | [Configuring Sales](weeks/week-08.md) |
-| 9 | [Customer Service fundamentals](weeks/week-09.md) |
-| 10 | [Service productivity](weeks/week-10.md) |
-| 11 | [Customer Insights](weeks/week-11.md) |
-| 12 | [Power Automate](weeks/week-12.md) |
-| 13 | [Power Apps](weeks/week-13.md) |
-| 14 | [Reporting and AI](weeks/week-14.md) |
-| 15 | [Data and integration](weeks/week-15.md) |
-| 16 | [Thinking like a consultant + capstone](weeks/week-16.md) |
-| 17 | [Copilot and AI agents (optional)](weeks/week-17-copilot-optional.md) |
+| Week | Dates | Topic |
+| --- | --- | --- |
+| 1 | Sun 1 Nov | [D365 CE, Power Platform and your trial environment](weeks/week-01-trial-setup.md) |
+| 2 | 7–8 Nov | [Using D365 like a user](weeks/week-02.md) |
+| 3 | 14–15 Nov | [Administration and security](weeks/week-03.md) |
+| 4 | 21–22 Nov | [Dataverse data model](weeks/week-04.md) |
+| 5 | 28–29 Nov | [The user interface](weeks/week-05.md) |
+| 6 | 5–6 Dec | [Logic without code and solutions](weeks/week-06.md) |
+| 7 | 12–13 Dec | [Sales Hub, lead to cash](weeks/week-07.md) |
+| 8 | 19–20 Dec | [Configuring Sales](weeks/week-08.md) |
+| 9 | 9–10 Jan | [Customer Service fundamentals](weeks/week-09.md) |
+| 10 | 16–17 Jan | [Service productivity](weeks/week-10.md) |
+| 11 | 23–24 Jan | [Customer Insights](weeks/week-11.md) |
+| 12 | 30–31 Jan | [Power Automate](weeks/week-12.md) |
+| 13 | 6–7 Feb | [Power Apps](weeks/week-13.md) |
+| 14 | 13–14 Feb | [Reporting and AI](weeks/week-14.md) |
+| 15 | 20–21 Feb | [Data and integration](weeks/week-15.md) |
+| 16 | 27–28 Feb | [Thinking like a consultant + capstone](weeks/week-16.md) |
+| 17 | 6–7 Mar | [Copilot and AI agents (optional)](weeks/week-17-copilot-optional.md) |
+
+No sessions over Christmas: 26 December – 3 January.
 
 ## Other folders
 
@@ -53,7 +53,7 @@ Every weekly guide ends with a **What good looks like** example built on Contoso
 
 ## Keeping your trial alive
 
-Dynamics 365 trials last 30 days and can be extended once. A Customer Service trial expires after 14 days of no activity and cannot be reactivated. **Log in to every trial at least once a week**, and export your solution at the end of Weeks 6, 11 and 14 so a lost environment costs minutes, not weeks.
+Dynamics 365 trials last 30 days and can be extended once. A Customer Service trial expires after 14 days of no activity and cannot be reactivated. **Log in to every trial at least once a week**, and export your solution at the end of Weeks 6, 8, 11 and 14 so a lost environment costs minutes, not weeks. Trials started on 1 November run out by 31 December at the latest, so the Week 8 export (19–20 December) is essential: you'll import it into fresh trials on 9 January.
 
 ## Rules for this repository
 

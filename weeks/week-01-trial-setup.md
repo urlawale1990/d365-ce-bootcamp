@@ -1,25 +1,33 @@
-# Week 1 — D365 CE, Power Platform and your trial environment
+# Week 1 — Onboarding, D365 CE, Power Platform and your trial environment
 
-By Sunday evening every learner has a Microsoft 365 work account and live Sales, Customer Service and Customer Insights trials. Without these, no later lab works, so Week 1 is protected time for setup.
+**One 2-hour session: Sunday 1 November.** Week 0 onboarding and Week 1 trial setup are merged into a single session. By the end of it, every learner has a Microsoft 365 work account and live Sales and Customer Service trials. Customer Insights follows if there's time, otherwise it's homework before Week 2. No later lab works without these, so this session is protected time for setup.
 
-### Saturday (2 hours): the big picture
+**Bring to the session:** a mobile phone for sign-in codes (MFA), a payment card for the Microsoft 365 sign-up (verification only), a laptop with an up-to-date Edge or Chrome, and a company name for your tenant, e.g. *ContosoJane*.
 
-| Time | Segment | Content |
+### Session plan (2 hours)
+
+| Time | Block | Content |
 | --- | --- | --- |
-| 0:00–0:15 | Welcome | Introductions, course goals, how weekends run, the Contoso case study |
-| 0:15–0:45 | What is CRM and D365 CE | CRM in plain words; D365 CE vs F&O (ERP); the CE apps: Sales, Customer Service, Field Service, Customer Insights, Contact Center |
-| 0:45–1:15 | Power Platform | Dataverse as the shared data layer; Power Apps, Power Automate, Power BI, Copilot Studio, Power Pages; model-driven apps = how D365 apps are built |
-| 1:15–1:35 | The consultant role | Functional vs technical consultant; a day in the life; the implementation lifecycle; certifications (MB-230, AB-210, AB-410) |
-| 1:35–1:55 | Live demo | Trainer walks through a working Sales and Customer Service app |
-| 1:55–2:00 | Prep for Sunday | Checklist below; read the trial FAQs |
+| 0:00–0:20 | Onboarding | Welcome, the course map, how weekends and the weekly Northwind capstone work, expectations (4 live hours + 3–4 hours self-study a week), key dates, class channel |
+| 0:20–0:35 | The big picture | D365 CE apps (Sales, Customer Service, Customer Insights); Power Platform (Dataverse, Power Apps, Power Automate, Power BI, Copilot Studio); tenant → environments → apps |
+| 0:35–1:05 | Lab Step 1 | Microsoft 365 Business Standard trial and work account |
+| 1:05–1:40 | Lab Steps 2–3 | Sales and Customer Service trials; confirm both environments in the Power Platform admin centre |
+| 1:40–1:50 | Lab Step 4 | Customer Insights trial (if time allows, otherwise homework) |
+| 1:50–2:00 | Wrap-up | Trial rules, homework, GitHub usernames, see you Saturday 7 November |
 
-**Before Sunday, each learner prepares:** a mobile phone for MFA, a payment card for the Microsoft 365 sign-up (verification only), and a chosen company name for their tenant, e.g. *ContosoJane*.
+Post "✅ M365 done" and "✅ D365 done" in the class channel as you finish each step so the trainer can see who needs help.
 
-### Sunday (2 hours): trial setup lab
+### Homework before Saturday 7 November
 
-Use a private/InPrivate browser window throughout so personal Microsoft accounts don't interfere.
+1. Finish any lab step you didn't complete, including Customer Insights (Step 4) and the admin tour (Step 5).
+2. Create a Microsoft Learn profile with a **personal** Microsoft account (not the trial work account) and link it to a certification profile, so your badges and exams stay with you for life.
+3. Send your GitHub username to the trainer for access to the course materials.
+4. Complete the consultant workshop task (personal role map) and the Northwind capstone below.
+5. Read the Week 1 Learn modules.
 
-**Step 1 — Create a Microsoft 365 work account (0:00–0:30)**
+### Trial setup lab
+
+**Step 1 — Create a Microsoft 365 work account (0:35–1:05)**
 
 1. Go to the [Microsoft 365 Business Standard one-month trial](https://www.microsoft.com/en-gb/microsoft-365/business/microsoft-365-business-standard-one-month-trial) and start the free trial.
 2. Enter a personal email to begin, then create the new organisation: company name, country (cannot be changed later), and a domain such as *contosojane.onmicrosoft.com*.
@@ -27,23 +35,23 @@ Use a private/InPrivate browser window throughout so personal Microsoft accounts
 4. Enter card details to verify. Then in the [Microsoft 365 admin centre](https://admin.microsoft.com) go to **Billing > Your products** and turn off recurring billing so it never charges.
 5. Write down: tenant domain, admin username, password. This work account is the key to every trial that follows.
 
-**Step 2 — Dynamics 365 Sales trial (0:30–0:55)**
+**Step 2 — Dynamics 365 Sales trial (1:05–1:25)**
 
 1. Sign out of everything, open a new private window, go to the [Sales overview page](https://www.microsoft.com/dynamics-365/products/sales) and select **Try for free**.
 2. Sign in with the new *onmicrosoft.com* admin account, complete the details, and select **Launch trial** when ready.
 3. Confirm the Sales Trial app opens with sample data on the Dashboards page.
 
-**Step 3 — Dynamics 365 Customer Service trial (0:55–1:20)**
+**Step 3 — Dynamics 365 Customer Service trial (1:25–1:40)**
 
 1. From the [Customer Service product page](https://www.microsoft.com/dynamics-365/products/customer-service) select **Try for free** and use the same work account.
 2. Wait for provisioning, then open the Customer Service workspace and view a sample case.
 
-**Step 4 — Customer Insights trial (1:20–1:40)**
+**Step 4 — Customer Insights trial (1:40–1:50)**
 
 1. From the [Customer Insights page](https://dynamics.microsoft.com/ai/customer-insights/) select **Try for free** with the same work account. A work or school address is required; personal email is not accepted.
 2. Start in Customer Insights – Journeys; Customer Insights – Data installs into the same environment.
 
-**Step 5 — Tour the admin side (1:40–2:00)**
+**Step 5 — Tour the admin side (homework)**
 
 1. Open the [Power Platform admin centre](https://admin.powerplatform.microsoft.com) and find the trial environments, their URLs and expiry dates.
 2. Open [make.powerapps.com](https://make.powerapps.com) and switch between environments.
@@ -55,6 +63,7 @@ Use a private/InPrivate browser window throughout so personal Microsoft accounts
 - Each D365 trial lasts 30 days and can be [extended once](https://learn.microsoft.com/en-us/power-platform/admin/trial-environments#extend-a-trial-standard-environment) for another 30 days in the Power Platform admin centre.
 - A Customer Service trial expires if unused for 14 consecutive days, and an expired trial cannot be reactivated.
 - Only one active trial per app at a time; a new trial is possible after the current one ends.
+- Trials started on 1 November end on 1 December, or 31 December with the extension, which is before the course resumes after Christmas. **Export your solution in Week 8 (19–20 December)** and start fresh trials on 9 January (Week 9).
 - Signing up with a personal email works, but blocks access to the Power Platform admin centre (no adding users, changing security roles or extending). That is why the Microsoft 365 work account comes first.
 
 ### Week 1 reading
@@ -71,7 +80,7 @@ Use a private/InPrivate browser window throughout so personal Microsoft accounts
 - [Microsoft Power Platform Fundamentals (PL-900)](https://learn.microsoft.com/training/paths/power-plat-fundamentals/) — learning path
 - [Describe the foundations of Dynamics 365 customer engagement apps](https://learn.microsoft.com/training/modules/navigate-dynamics-customer-engagement-apps/) — module
 
-## Consultant workshop (Sunday, last 40 minutes)
+## Consultant workshop (homework this week)
 
 - **Skill:** The consultant role
 - **Activity:** Functional vs technical vs solution architect; who does what on a project; RACI
@@ -102,4 +111,4 @@ This example uses Contoso, not Northwind, so you see the standard expected witho
 - **Deliver:** Working trial + app recommendation
 - **Acceptance check:** Environment live; recommendation names Sales and Customer Service with reasons
 
-Client material is in [northwind](../northwind/README.md). Demo-ready by Saturday: 2–3 learners present each week.
+Client material is in [northwind](../northwind/README.md). Demo-ready by Saturday 7 November: 2–3 learners present each week.

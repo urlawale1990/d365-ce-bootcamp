@@ -1,5 +1,7 @@
 # Week 8 — Configuring Sales
 
+> **Before the Christmas break:** export your solution (managed and unmanaged) this weekend. Your trials end by 31 December and you'll start fresh trials on 9 January.
+
 - Saturday: Sales Hub app settings, product catalogue design, product families and bundles, sales territories, goals and goal metrics. Guided lab: build the Contoso catalogue.
 - Sunday: forecasting, sales accelerator (work list, sequences, assignment rules), Copilot in Sales (30-minute hands-on slot: turn on Copilot features in app settings, record summaries, email drafting, opportunity insights and meeting prep — key AB-210 content).
 - Reading: *Configure the product catalogue*; *Configure forecasts*; *Sales accelerator*.
