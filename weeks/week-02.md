@@ -41,7 +41,9 @@ This example uses Contoso, not Northwind, so you see the standard expected witho
 
 ## Northwind capstone (complete during the week)
 
-- **Task:** Load 10 clinics as accounts, 20 contacts, and log 15 activities from a supplied call sheet
+**Task sheet with deliverables, checks and due date:** [Week 2 Northwind task](../northwind/tasks/week-02-northwind-task.md)
+
+- **Task:** Load 14 accounts (8 clinics and 6 corporate clients), 20 contacts, and log 15 activities from the supplied call sheet and data
 - **Deliver:** Populated environment + saved view
 - **Acceptance check:** Activities appear on the correct timelines; a personal view filters by clinic region
 

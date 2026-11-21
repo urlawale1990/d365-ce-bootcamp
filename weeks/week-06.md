@@ -53,6 +53,8 @@ This example uses Contoso, not Northwind, so you see the standard expected witho
 
 ## Northwind capstone (complete during the week)
 
+**Task sheet with deliverables, checks and due date:** [Week 6 Northwind task](../northwind/tasks/week-06-northwind-task.md)
+
 - **Task:** Complete a fit-gap on all 20 stories; build 3 business rules and a booking BPF; export the solution
 - **Deliver:** Fit-gap matrix + exported managed and unmanaged solution
 - **Acceptance check:** Every story classified with effort; solution imports cleanly into a second environment

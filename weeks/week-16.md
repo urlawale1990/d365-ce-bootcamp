@@ -39,6 +39,8 @@ This example uses Contoso, not Northwind, so you see the standard expected witho
 
 ## Northwind capstone (complete during the week)
 
+**Task sheet with deliverables, checks and due date:** [Week 16 Northwind task](../northwind/tasks/week-16-northwind-task.md)
+
 - **Task:** Assemble everything into the final capstone; write the cutover plan and present to the “Northwind board”
 - **Deliver:** Final capstone (see [assessment](../assessment/README.md))
 - **Acceptance check:** Passes the final capstone rubric

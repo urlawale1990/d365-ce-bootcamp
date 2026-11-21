@@ -44,6 +44,8 @@ This example uses Contoso, not Northwind, so you see the standard expected witho
 
 ## Northwind capstone (complete during the week)
 
+**Task sheet with deliverables, checks and due date:** [Week 8 Northwind task](../northwind/tasks/week-08-northwind-task.md)
+
 - **Task:** Design the security model; set up product catalogue for health packages, a sales goal and forecast
 - **Deliver:** Security matrix + catalogue + forecast
 - **Acceptance check:** Matrix matches configured roles; forecast shows Q-pipeline by rep

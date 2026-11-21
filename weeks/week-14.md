@@ -38,6 +38,8 @@ This example uses Contoso, not Northwind, so you see the standard expected witho
 
 ## Northwind capstone (complete during the week)
 
+**Task sheet with deliverables, checks and due date:** [Week 14 Northwind task](../northwind/tasks/week-14-northwind-task.md)
+
 - **Task:** Build a Power BI report on bookings and complaints; write test scripts for 10 stories and run them
 - **Deliver:** Report + executed test scripts with defects logged
 - **Acceptance check:** Report filters by clinic; scripts trace to acceptance criteria

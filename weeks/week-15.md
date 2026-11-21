@@ -41,6 +41,8 @@ This example uses Contoso, not Northwind, so you see the standard expected witho
 
 ## Northwind capstone (complete during the week)
 
+**Task sheet with deliverables, checks and due date:** [Week 15 Northwind task](../northwind/tasks/week-15-northwind-task.md)
+
 - **Task:** Import 300 legacy Excel records with a mapping sheet and duplicate rules; write a receptionist user guide
 - **Deliver:** Migration mapping + clean data + user guide
 - **Acceptance check:** No duplicates; guide lets a classmate complete a booking unaided

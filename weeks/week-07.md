@@ -35,6 +35,8 @@ This example uses Contoso, not Northwind, so you see the standard expected witho
 
 ## Northwind capstone (complete during the week)
 
+**Task sheet with deliverables, checks and due date:** [Week 7 Northwind task](../northwind/tasks/week-07-northwind-task.md)
+
 - **Task:** Draw the Northwind ERD; configure the corporate wellness sales cycle lead → opportunity → quote
 - **Deliver:** ERD + data dictionary + one closed-won deal
 - **Acceptance check:** ERD matches what is built; quote uses a Northwind price list

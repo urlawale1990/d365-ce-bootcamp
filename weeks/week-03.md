@@ -43,6 +43,8 @@ This example uses Contoso, not Northwind, so you see the standard expected witho
 
 ## Northwind capstone (complete during the week)
 
+**Task sheet with deliverables, checks and due date:** [Week 3 Northwind task](../northwind/tasks/week-03-northwind-task.md)
+
 - **Task:** Create users for a receptionist, clinic manager, sales rep and support lead; run a mock discovery interview with a classmate playing the COO
 - **Deliver:** Users with roles + interview notes + BRD v1
 - **Acceptance check:** Each user sees only what their role allows; BRD has 15+ requirements with MoSCoW priority

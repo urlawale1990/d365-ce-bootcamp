@@ -49,6 +49,8 @@ This example uses Contoso, not Northwind, so you see the standard expected witho
 
 ## Northwind capstone (complete during the week)
 
+**Task sheet with deliverables, checks and due date:** [Week 4 Northwind task](../northwind/tasks/week-04-northwind-task.md)
+
 - **Task:** Turn the BRD into 20 user stories; design and build Northwind tables (Clinic, Health Package, Booking)
 - **Deliver:** Backlog + tables in a Northwind solution with its own publisher
 - **Acceptance check:** Stories have acceptance criteria; all components sit in the solution, none in Default

@@ -39,6 +39,8 @@ This example uses Contoso, not Northwind, so you see the standard expected witho
 
 ## Northwind capstone (complete during the week)
 
+**Task sheet with deliverables, checks and due date:** [Week 10 Northwind task](../northwind/tasks/week-10-northwind-task.md)
+
 - **Task:** Finish the FRD with service sections and an RTM; add 10 knowledge articles for common patient questions
 - **Deliver:** FRD v1.0 + RTM + knowledge base
 - **Acceptance check:** Every story traces to a design element and a test; articles surface on cases

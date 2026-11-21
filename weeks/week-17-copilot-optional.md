@@ -22,6 +22,8 @@ A bonus weekend after the capstone. Run it if the cohort finished on schedule, o
 
 **Reading:** *Copilot Studio fundamentals*; *Copilot in Dynamics 365 Sales*; *Copilot in Dynamics 365 Customer Service*; *Responsible AI FAQ for Dynamics 365 and Power Platform*.
 
+**Task sheet with deliverables, checks and due date:** [Week 17 Northwind task](../northwind/tasks/week-17-northwind-task.md)
+
 **Northwind capstone:** a patient-facing agent that answers the 20 common reception questions from the knowledge base and logs complaints as cases routed to the complaints queue. Acceptance check: the agent answers 8 of 10 test questions correctly, never shows medical or contract data, and every complaint creates a case with the right queue.
 
 **Certification link:** strengthens AB-210 (Sales AI Consultant) and prepares for AB-620 (AI Agent Builder Associate).

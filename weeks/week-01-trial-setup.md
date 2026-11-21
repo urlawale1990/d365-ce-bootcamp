@@ -109,6 +109,8 @@ This example uses Contoso, not Northwind, so you see the standard expected witho
 
 ## Northwind capstone (complete during the week)
 
+**Task sheet with deliverables, checks and due date:** [Week 1 Northwind task](../northwind/tasks/week-01-northwind-task.md)
+
 - **Task:** In the Power Platform admin centre, create a new trial environment called *Northwind* in your tenant (using today's admin account); write a 1-page note on which D365 apps Northwind needs and why
 - **Deliver:** A screenshot of the Northwind environment (name, type, URL) + the app recommendation note, by Saturday 7 November
 - **Acceptance check:** Environment live; recommendation names Sales and Customer Service with reasons

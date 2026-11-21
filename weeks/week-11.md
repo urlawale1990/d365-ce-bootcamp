@@ -40,6 +40,8 @@ This example uses Contoso, not Northwind, so you see the standard expected witho
 
 ## Northwind capstone (complete during the week)
 
+**Task sheet with deliverables, checks and due date:** [Week 11 Northwind task](../northwind/tasks/week-11-northwind-task.md)
+
 - **Task:** Write Northwind's solution strategy; build a reminder journey for annual health checks in Customer Insights
 - **Deliver:** Solution strategy + segment + journey
 - **Acceptance check:** Strategy names publisher, prefix, managed/unmanaged policy; journey sends to the segment

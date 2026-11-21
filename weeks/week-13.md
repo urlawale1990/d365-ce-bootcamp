@@ -35,6 +35,8 @@ a camera control to attach a photo of the repair.
 
 ## Northwind capstone (complete during the week)
 
+**Task sheet with deliverables, checks and due date:** [Week 13 Northwind task](../northwind/tasks/week-13-northwind-task.md)
+
 - **Task:** Build a canvas app for receptionists to check in patients; log all configuration and raise 1 change request
 - **Deliver:** Canvas app embedded in the model-driven app + config log + CR
 - **Acceptance check:** App writes to Dataverse; CR includes impact and effort

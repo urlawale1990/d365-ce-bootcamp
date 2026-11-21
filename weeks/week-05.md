@@ -39,6 +39,8 @@ This example uses Contoso, not Northwind, so you see the standard expected witho
 
 ## Northwind capstone (complete during the week)
 
+**Task sheet with deliverables, checks and due date:** [Week 5 Northwind task](../northwind/tasks/week-05-northwind-task.md)
+
 - **Task:** Map as-is and to-be booking process; build Booking forms, views and a clinic manager dashboard
 - **Deliver:** Process maps + UI
 - **Acceptance check:** Form follows the to-be process; dashboard shows bookings by clinic and status

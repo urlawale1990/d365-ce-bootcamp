@@ -40,6 +40,8 @@ This example uses Contoso, not Northwind, so you see the standard expected witho
 
 ## Northwind capstone (complete during the week)
 
+**Task sheet with deliverables, checks and due date:** [Week 12 Northwind task](../northwind/tasks/week-12-northwind-task.md)
+
 - **Task:** Build 2 flows (booking confirmation, overdue complaint escalation) using environment variables; write a deployment plan
 - **Deliver:** Flows + environment and deployment plan
 - **Acceptance check:** Flows deploy to Test as part of the managed solution without editing

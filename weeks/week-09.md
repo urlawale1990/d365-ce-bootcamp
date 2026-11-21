@@ -44,6 +44,8 @@ This example uses Contoso, not Northwind, so you see the standard expected witho
 
 ## Northwind capstone (complete during the week)
 
+**Task sheet with deliverables, checks and due date:** [Week 9 Northwind task](../northwind/tasks/week-09-northwind-task.md)
+
 - **Task:** Write the FRD for Northwind Sales; set up complaint and billing queues, 2 SLAs and routing rules
 - **Deliver:** FRD draft + working service desk
 - **Acceptance check:** A complaint case routes to the right queue and shows SLA timers
