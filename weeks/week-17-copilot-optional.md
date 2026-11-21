@@ -1,5 +1,7 @@
 # Week 17 — Copilot and AI agents (optional, if time permits)
 
+**Contoso lab sheet:** [week 17 guided labs, step by step](../labs/week-17-contoso-lab.md)
+
 A bonus weekend after the capstone. Run it if the cohort finished on schedule, or offer it as a paid add-on or alumni session. It deepens the Copilot content from Weeks 8, 10 and 14 and prepares learners for AI-heavy interviews and the AB-210 and AB-620 exams.
 
 **Saturday (2h): Copilot for the functional consultant**

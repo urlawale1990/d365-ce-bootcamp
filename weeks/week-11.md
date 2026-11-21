@@ -1,5 +1,7 @@
 # Week 11 — Customer Insights
 
+**Contoso lab sheet:** [week 11 guided labs, step by step](../labs/week-11-contoso-lab.md)
+
 - Saturday: Customer Insights – Data (unified customer profile) and – Journeys (real-time marketing). Guided lab: create a segment of Contoso customers.
 - Sunday: build a marketing email, a form and a simple trigger-based journey; consent basics and GDPR.
 - Reading: *Customer Insights – Journeys overview*; *Create segments*; *Create a journey*.

@@ -1,5 +1,7 @@
 # Week 10 — Service productivity
 
+**Contoso lab sheet:** [week 10 guided labs, step by step](../labs/week-10-contoso-lab.md)
+
 - Saturday: knowledge management, authoring and publishing articles, Customer Service workspace, productivity pane, Copilot in Customer Service (30-minute hands-on slot: enable Copilot features, case summaries, drafted email and chat responses, answers from knowledge articles). Guided lab: 5 knowledge articles linked to cases.
 - Sunday: overview of omnichannel, unified routing and Contact Center; Customer Voice / survey options; Customer Service analytics.
 - Reading: *Knowledge management*; *Customer Service workspace*; *Unified routing overview*.

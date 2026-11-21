@@ -1,5 +1,7 @@
 # Week 9 — Customer Service fundamentals
 
+**Contoso lab sheet:** [week 9 guided labs, step by step](../labs/week-09-contoso-lab.md)
+
 > **First session back (9 January):** start new Sales and Customer Service trials with your Microsoft 365 work account (extend the Microsoft 365 trial or start a new one if needed), then import the solution you exported in Week 8 before the lab.
 
 - Saturday: case lifecycle, case form, subjects, parent/child cases, resolving and cancelling. Guided lab: log and resolve 5 cases.

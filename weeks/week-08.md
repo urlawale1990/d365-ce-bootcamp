@@ -1,5 +1,7 @@
 # Week 8 — Configuring Sales
 
+**Contoso lab sheet:** [week 8 guided labs, step by step](../labs/week-08-contoso-lab.md)
+
 > **Before the Christmas break:** export your solution (managed and unmanaged) this weekend. Your trials end by 31 December and you'll start fresh trials on 9 January.
 
 - Saturday: Sales Hub app settings, product catalogue design, product families and bundles, sales territories, goals and goal metrics. Guided lab: build the Contoso catalogue.

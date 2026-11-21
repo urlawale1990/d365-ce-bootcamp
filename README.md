@@ -47,6 +47,7 @@ No sessions over Christmas: 26 December – 3 January.
 | Folder | What's inside |
 | --- | --- |
 | [consultant-track](consultant-track/README.md) | The consultant skill and deliverable for every week, plus solution management in depth |
+| [labs](labs/README.md) | Step-by-step Contoso lab sheets for every week, with checks and lab data |
 | [templates](templates/README.md) | 13 consultant document templates, each with a filled-in Contoso example |
 | [northwind](northwind/README.md) | The Northwind Clinics client pack (released week by week) |
 | [assessment](assessment/README.md) | Final capstone, rubric, grading and certification path |

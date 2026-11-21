@@ -1,5 +1,7 @@
 # Week 5 — The user interface
 
+**Contoso lab sheet:** [week 5 guided labs, step by step](../labs/week-05-contoso-lab.md)
+
 - Saturday: main, quick create and quick view forms; form sections, tabs, subgrids; system vs personal views. Guided lab: redesign the Appliance form.
 - Sunday: charts, dashboards, interactive dashboards; build a model-driven app and sitemap that exposes the new tables; add a command bar button with Power Fx (e.g. “Mark as installed”); create email templates for quotes and case responses.
 - Reading: *Design model-driven app forms*; *Create views, charts and dashboards*.

@@ -1,5 +1,7 @@
 # Week 4 — Dataverse data model
 
+**Contoso lab sheet:** [week 4 guided labs, step by step](../labs/week-04-contoso-lab.md)
+
 - Saturday: tables (standard, custom, activity), column types, choices, calculated, rollup and Power Fx formula columns, alternate keys, 1:N and N:N relationships, relationship behaviours. Guided lab: create a *Contoso Configuration* solution and publisher.
 - Sunday: build *Appliance* and *Service Contract* tables with relationships to Account; add choices and a rollup column. Then create a free Azure DevOps project and load the Contoso user stories onto a Boards backlog with priorities and sprints.
 - Reading: *Create and manage tables in Dataverse*; *Manage columns and relationships*.

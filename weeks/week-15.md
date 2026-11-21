@@ -1,5 +1,7 @@
 # Week 15 — Data and integration
 
+**Contoso lab sheet:** [week 15 guided labs, step by step](../labs/week-15-contoso-lab.md)
+
 - Saturday: data import wizard, import templates, data maps, duplicate detection rules, bulk delete, auditing. Guided lab: import 200 messy Contoso records and clean them.
 - Sunday: Outlook app, Teams integration, Excel Online, SharePoint document management, server-side sync overview.
 - Reading: *Import data*; *Duplicate detection*; *Integrate with Microsoft 365*.

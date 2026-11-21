@@ -1,5 +1,7 @@
 # Week 2 — Using D365 like a user
 
+**Contoso lab sheet:** [week 2 guided labs, step by step](../labs/week-02-contoso-lab.md)
+
 - Saturday: app navigation, sitemap, global and relevance search, views vs forms, the timeline, personal settings. Guided lab: create 5 accounts and 10 contacts for Contoso.
 - Sunday: log calls, emails, tasks and appointments; notes and attachments; advanced find and the modern view editor; export to Excel.
 - Reading: *Get started with model-driven apps*; *Work with records in Dynamics 365*.

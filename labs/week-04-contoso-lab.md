@@ -106,6 +106,7 @@ The key stops two appliances having the same serial number, and lets imports upd
 | Display name | Data type | Required |
 | --- | --- | --- |
 | Account | Lookup → Account | Business required |
+| Appliance | Lookup → Appliance | Optional |
 | Start date | Date only | Business required |
 | End date | Date only | Business required |
 | Annual fee | Currency | Business required |

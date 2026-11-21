@@ -1,5 +1,7 @@
 # Week 16 — Thinking like a consultant + capstone
 
+**Contoso lab sheet:** [week 16 guided labs, step by step](../labs/week-16-contoso-lab.md)
+
 - Saturday: discovery workshops, user stories, fit-gap analysis, functional design document, UAT, go-live and hypercare; working with developers and stakeholders.
 - Sunday: capstone presentations (15 minutes each), feedback, interview practice, next steps.
 - Reading: *Success by Design* (Microsoft's implementation guide).

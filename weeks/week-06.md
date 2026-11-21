@@ -1,5 +1,7 @@
 # Week 6 — Logic without code and solutions
 
+**Contoso lab sheet:** [week 6 guided labs, step by step](../labs/week-06-contoso-lab.md)
+
 - Saturday: business rules (form vs table scope), business process flows, classic workflows vs Power Automate (when to use which). Guided lab: 3 business rules on Appliance.
 - Sunday: build a BPF for appliance installation; managed vs unmanaged solutions; export from one environment and import to another; turn on auditing for key tables and review audit history.
 - Reading: *Create business rules*; *Business process flows overview*; *Solution concepts (ALM)*.

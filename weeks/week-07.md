@@ -1,5 +1,7 @@
 # Week 7 — Sales Hub, lead to cash
 
+**Contoso lab sheet:** [week 7 guided labs, step by step](../labs/week-07-contoso-lab.md)
+
 - Saturday: sales lifecycle; leads, qualification, opportunities, stakeholders, competitors; the lead-to-opportunity BPF. Guided lab: qualify 3 leads.
 - Sunday: products, price lists, discount lists; quotes, orders, invoices; close won/lost.
 - Reading: *Dynamics 365 Sales overview*; *Manage leads and opportunities*.

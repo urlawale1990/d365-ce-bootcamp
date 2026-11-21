@@ -1,5 +1,7 @@
 # Week 3 — Administration and security
 
+**Contoso lab sheet:** [week 3 guided labs, step by step](../labs/week-03-contoso-lab.md)
+
 - Saturday: tenants vs environments, environment types (trial, sandbox, production, developer), Power Platform admin centre, Microsoft 365 admin centre. Guided lab: add 4 users and assign licences.
 - Sunday: security model — business units, security roles, teams, field security, record ownership and sharing. Lab: build a Sales Manager and Support Agent role and test access as each user.
 - Reading: *Manage environments in Power Platform*; *Security concepts in Dataverse*.

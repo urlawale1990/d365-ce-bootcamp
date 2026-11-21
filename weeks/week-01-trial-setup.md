@@ -1,5 +1,7 @@
 # Week 1 — Onboarding, D365 CE, Power Platform and your trial environment
 
+**Contoso lab sheet:** [week 1 guided labs, step by step](../labs/week-01-contoso-lab.md)
+
 **One 2-hour session: Sunday 1 November.** Week 0 onboarding and Week 1 trial setup are merged into a single session. By the end of it, every learner has a Microsoft 365 work account and live Sales and Customer Service trials. Customer Insights follows if there's time, otherwise it's homework before Week 2. No later lab works without these, so this session is protected time for setup.
 
 **Bring to the session:** a mobile phone for sign-in codes (MFA), a payment card for the Microsoft 365 sign-up (verification only), a laptop with an up-to-date Edge or Chrome, and a company name for your tenant, e.g. *ContosoJane*.

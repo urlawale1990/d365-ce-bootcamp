@@ -1,5 +1,7 @@
 # Week 14 — Reporting and AI
 
+**Contoso lab sheet:** [week 14 guided labs, step by step](../labs/week-14-contoso-lab.md)
+
 - Saturday: reporting options (views, charts, dashboards, Excel templates, Power BI); Power BI Desktop with the Dataverse connector. Guided lab: a Contoso service performance report.
 - Sunday: Copilot Studio basics — build an agent that answers questions from knowledge articles; Copilot features in Sales and Customer Service.
 - Reading: *Power BI with Dataverse*; *Copilot Studio fundamentals*.

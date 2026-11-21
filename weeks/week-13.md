@@ -1,5 +1,7 @@
 # Week 13 — Power Apps
 
+**Contoso lab sheet:** [week 13 guided labs, step by step](../labs/week-13-contoso-lab.md)
+
 - Saturday: model-driven app design in depth, app designer, security on apps; canvas app intro. Guided lab: a canvas app for technicians to log appliance visits.
 - Sunday: embed the canvas app in a model-driven form; custom pages overview; Power Pages overview for customer portals.
 - Reading: *Create a canvas app*; *Model-driven app design*.

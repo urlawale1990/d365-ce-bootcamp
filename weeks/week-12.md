@@ -1,5 +1,7 @@
 # Week 12 — Power Automate
 
+**Contoso lab sheet:** [week 12 guided labs, step by step](../labs/week-12-contoso-lab.md)
+
 - Saturday: flow types, Dataverse connector, triggers and actions, conditions, expressions basics. Guided lab: email the account owner when a high-priority case is created.
 - Sunday: approval flow for quote discounts over 10%; a scheduled flow for overdue tasks; error handling and run history.
 - Reading: *Get started with Power Automate*; *Use the Dataverse connector*.
