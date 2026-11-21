@@ -32,12 +32,19 @@ Two guided labs in the **Contoso** environment. Everything you build goes inside
 
 Why: we only add what we change. Ticking *Include all components* pulls hundreds of objects into the solution.
 
-### Step 3 — Create a global choice
+### Step 3 — Create a local choice column on Account
 
-1. In the solution, select **New → More → Choice**.
-2. **Display name:** `Appliance type`.
-3. Add four items: `Boiler`, `Oven`, `Fridge`, `Washing machine`.
-4. **Save**.
+A local choice belongs to one column on one table, so you create it as a new column.
+
+1. In the solution, open **Tables → Account → Columns → + New column**.
+2. **Display name:** `Customer type`.
+3. **Data type:** **Choice**. Under *Sync this choice with*, select **New choice** (local to this column, not an existing global choice).
+4. Add four items: `Landlord`, `Letting agent`, `Housing association`, `Builder`.
+5. **Save**.
+
+Then set it on the five Contoso accounts: Riverside Builders = Builder, Northgate Lettings = Letting agent, Peak Homes Ltd = Landlord, Thames Property Group = Landlord, Bristol Housing Co-op = Housing association.
+
+Local vs global: a local choice is used by this one column only. If the same list were needed on several tables, you'd make it a global choice so it's edited in one place.
 
 ### Step 4 — Make it your preferred solution (optional)
 
@@ -48,7 +55,7 @@ Solutions → select **Contoso Configuration** → **…** → **Set preferred s
 - [ ] The **Contoso Configuration** solution exists in Contoso.
 - [ ] Its publisher is **Contoso Home Services** with prefix **cnt**.
 - [ ] Account is in the solution, without all its components.
-- [ ] The Appliance type choice's name starts with `cnt_`.
+- [ ] Account has a **Customer type** column whose name starts with `cnt_`, with four local choice values.
 - [ ] Nothing new appears in the Default solution.
 
 Anything named `new_` or `cr…` was created outside the solution. Delete it and create it again inside Contoso Configuration.
@@ -71,7 +78,7 @@ Open **Appliance → Columns → + New column** for each row:
 | Display name | Data type | Required | Notes |
 | --- | --- | --- | --- |
 | Serial number | Single line of text, max 50 | Business required | |
-| Appliance type | Choice → *Sync with global choice* → Appliance type | Business required | Use the choice from Saturday |
+| Appliance type | Choice (local, new choice): Boiler, Oven, Fridge, Washing machine | Business required | |
 | Install date | Date only | Business required | |
 | Account | Lookup → related table **Account** | Business required | Creates the Account 1:N Appliance relationship |
 | Under warranty | Yes/No | Optional | |
