@@ -42,11 +42,21 @@ A local choice belongs to one column on one table, so you create it as a new col
 4. Add four items: `Landlord`, `Letting agent`, `Housing association`, `Builder`.
 5. **Save**.
 
+### Step 4 — Add Customer type to the Account form
+
+A new column doesn't appear on any form until you add it, so users can't see or fill it in yet.
+
+1. In Sales Hub, open any account and look at the form name in the top-left form selector (usually **Account** or **Sales Insights**). That's the form to edit.
+2. In the solution, open **Tables → Account → Forms** and open that main form.
+3. From **Table columns** on the left, drag **Customer type** into the **Summary** tab, under **Account Name**.
+4. **Save and publish**.
+5. Back in Sales Hub, refresh an account. **Customer type** now shows on the form.
+
 Then set it on the five Contoso accounts: Riverside Builders = Builder, Northgate Lettings = Letting agent, Peak Homes Ltd = Landlord, Thames Property Group = Landlord, Bristol Housing Co-op = Housing association.
 
 Local vs global: a local choice is used by this one column only. If the same list were needed on several tables, you'd make it a global choice so it's edited in one place.
 
-### Step 4 — Make it your preferred solution (optional)
+### Step 5 — Make it your preferred solution (optional)
 
 Solutions → select **Contoso Configuration** → **…** → **Set preferred solution**. New components you create elsewhere now land in it by default.
 
@@ -56,6 +66,7 @@ Solutions → select **Contoso Configuration** → **…** → **Set preferred s
 - [ ] Its publisher is **Contoso Home Services** with prefix **cnt**.
 - [ ] Account is in the solution, without all its components.
 - [ ] Account has a **Customer type** column whose name starts with `cnt_`, with four local choice values.
+- [ ] Customer type shows on the Account form in Sales Hub and is set on all five accounts.
 - [ ] Nothing new appears in the Default solution.
 
 Anything named `new_` or `cr…` was created outside the solution. Delete it and create it again inside Contoso Configuration.
@@ -125,9 +136,33 @@ The key stops two appliances having the same serial number, and lets imports upd
 2. **Display name:** `Number of appliances`. **Data type:** Whole number. **Behaviour:** Rollup. **Save**, then **Edit** the rollup.
 3. **Related entity:** Appliances (Account). **Aggregation:** COUNT of Appliance. **Save and close**.
 
-### Step 7 — Test it
+### Step 7 — Add the new columns to forms
 
-1. Open the **Appliances** table in **Edit** (data view) and add two appliances for **Peak Homes Ltd**:
+New tables get a basic main form called **Information** with only Name and Owner, and new columns aren't added to any form automatically. Add them now so users can see and edit them. Full form design (tabs, quick create, quick view) comes in Week 5.
+
+**Appliance form**
+
+1. **Appliance → Forms → Information** (type *Main*) → open it.
+2. Drag in **Serial number**, **Appliance type**, **Install date**, **Account**, **Under warranty** and **Warranty end**.
+3. **Save and publish**.
+
+**Service Contract form**
+
+1. **Service Contract → Forms → Information** → open it.
+2. Drag in **Account**, **Appliance**, **Start date**, **End date**, **Annual fee** and **Cover level**.
+3. **Save and publish**.
+
+**Account form**
+
+1. Open the Account main form you edited on Saturday.
+2. Drag **Number of appliances** next to Customer type.
+3. Add a subgrid: **+ Component → Subgrid** → tick **Show related records** → table **Appliances (Account)** → default view **Active Appliances** → **Done**. Label it `Appliances`.
+4. Optional: add a second subgrid for **Service Contracts (Account)**.
+5. **Save and publish**.
+
+### Step 8 — Test it
+
+1. Open **Peak Homes Ltd** in Sales Hub. On the **Appliances** subgrid, select **+ New Appliance** and add two appliances (or use the Appliances table in **Edit** data view):
 
    | Name | Serial number | Appliance type | Install date | Under warranty |
    | --- | --- | --- | --- | --- |
@@ -136,7 +171,8 @@ The key stops two appliances having the same serial number, and lets imports upd
 
 2. Check **Warranty end** shows 12 March 2027 for the boiler.
 3. Try to add a third appliance with serial number `BX-1001`. It should be refused.
-4. Open **Peak Homes Ltd** in Sales Hub. If **Number of appliances** isn't on the form yet, check it in the Accounts table data view. Recalculate it if it still shows 0 (rollups refresh on a schedule).
+4. On **Peak Homes Ltd**, check both appliances appear in the **Appliances** subgrid and **Number of appliances** shows 2. If it still shows 0, select the refresh icon next to the field to recalculate (rollups refresh on a schedule).
+5. Add one service contract for Peak Homes Ltd (e.g. `CON-1001`, 1 January–31 December 2027, £240, Standard) and check it shows on the account.
 
 ### Sunday checks
 
@@ -145,10 +181,12 @@ The key stops two appliances having the same serial number, and lets imports upd
 - [ ] Deleting Peak Homes Ltd is blocked while it has appliances.
 - [ ] Warranty end calculates two years after the install date.
 - [ ] Duplicate serial numbers are refused.
+- [ ] The Appliance and Service Contract forms show all their new columns.
+- [ ] The Account form shows Number of appliances and an Appliances subgrid.
 - [ ] Number of appliances on Peak Homes Ltd shows 2.
 - [ ] Nothing new appears in the Default solution.
 
-Forms, views and adding the new tables to an app come in Week 5.
+Full form design (tabs, header, quick create, quick view), views and adding the new tables to an app's navigation come in Week 5.
 
 ---
 
